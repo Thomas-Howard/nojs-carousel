@@ -1,0 +1,10 @@
+version: "3.1"
+services:
+  web:
+    image: php:apache
+    container_name: ${PROJECT_NAME}-apache
+    volumes:
+      - ./app:/var/www/html:${DOCKER_MOUNT_FLAGS}
+
+    ports:
+      - "${DEV_DOCKER_PORTPREFIX}80:80"

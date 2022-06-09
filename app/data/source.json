@@ -1,0 +1,32 @@
+[
+    {
+        "img": "aramon-arena.jpg",
+        "name": "Aramon Arena",
+        "size": "33x12",
+        "tileset": "Aramon"
+    },
+    {
+        "img": "concordant-crossroads.jpg",
+        "name": "Concordant Crossroads",
+        "size": "37 x 37",
+        "tileset": "Veruna"
+    },
+    {
+        "img": "crosspaths-redux.jpg",
+        "name": "Crosspaths",
+        "size": "40 x 40",
+        "tileset": "Metal"
+    },
+    {
+        "img": "hairy-bogan.jpg",
+        "name": "Hairy Bogan",
+        "size": "32 x 32",
+        "tileset": "Zhon"
+    },
+    {
+        "img": "sharktopus.jpg",
+        "name": "Sharktopus",
+        "size": "41 x 41",
+        "tileset": "Metal"
+    }
+]
