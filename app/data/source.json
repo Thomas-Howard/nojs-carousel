@@ -3,30 +3,35 @@
         "img": "aramon-arena.jpg",
         "name": "Aramon Arena",
         "size": "33x12",
-        "tileset": "Aramon"
+        "tileset": "Aramon",
+        "desc": "Perfect for porcupining in the fortresses at either end, lots of bottlenecks."
     },
     {
         "img": "concordant-crossroads.jpg",
         "name": "Concordant Crossroads",
         "size": "37 x 37",
-        "tileset": "Veruna"
+        "tileset": "Veruna",
+        "desc": "Stacks of metal, a pretty Veruna tileset. Block the paths with wreckage, then go for hovercraft?"
     },
     {
         "img": "crosspaths-redux.jpg",
         "name": "Crosspaths",
         "size": "40 x 40",
-        "tileset": "Metal"
+        "tileset": "Metal",
+        "desc": "A massive metal map with unusual metal textures."
     },
     {
         "img": "hairy-bogan.jpg",
         "name": "Hairy Bogan",
         "size": "32 x 32",
-        "tileset": "Zhon"
+        "tileset": "Zhon",
+        "desc": "Sunshine, sand, swampy shallow water. A bit like Queensland really, hence the name." 
     },
     {
         "img": "sharktopus.jpg",
         "name": "Sharktopus",
         "size": "41 x 41",
-        "tileset": "Metal"
+        "tileset": "Metal",
+        "desc": "An enormous metal map with islands separated with shallow water. Thanks to Venom for the name."
     }
 ]

@@ -89,6 +89,7 @@ if(isset($_GET['debug'])) {
         <h4><?=$item['name']?></h4>
         <p>Size: <?=$item['size']?> </p>
         <p>Tileset: <?=$item['tileset']?> </p>
+        <p><?=$item['desc']?> </p>
       </article>
     </div><?php
   } ?>
